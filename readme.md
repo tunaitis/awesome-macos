@@ -122,7 +122,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Auryo](https://github.com/sneljo1/auryo) - A SoundCloud client for your desktop. ![Open Source][oss]
 - [Aural](https://github.com/kartik-venugopal/aural-player) - An audio player for macOS, inspired by Winamp. ![Open Source][oss]
 - [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice. ![Dollar][mon]
-- [Cider](https://cider.sh/) - OSS Apple Music client for Windows, Linux, macOS, and more. ![Open Source][oss] ![Star][fav]
+- [Cider](https://cider.sh/) - Electron-based Apple Music client for Windows, Linux, macOS, and more. ![Free][free] ![Star][fav]
 - [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss] ![Star][fav]
 - [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS. ![Free][free]
 - [Idagio](https://about.idagio.com) - Streaming, reinvented for classical music. ![Free][free]
