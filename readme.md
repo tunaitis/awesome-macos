@@ -221,6 +221,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Cursor](https://cursor.sh/) - The AI-first Code Editor. ![Dollar][mon]
 - [Espresso](https://espressoapp.com/) - Powerful HTML, XML, CSS, and JavaScript development tool. ![Dollar][mon]
 - [IntelliJ](https://www.jetbrains.com/idea/) - Capable and Intelligent IDE. ![Dollar][mon]
+- [Regex Forge](https://regexforge.com/) - Easily create and test regex patterns. ![Dollar][mon]
 - [RubyMine](https://www.jetbrains.com/ruby/) - Work Faster with a Smarter Editor. ![Dollar][mon]
 - [SubEthaEdit 5](https://subethaedit.net/) - Code, Write, Edit. Together. ![Open Source][oss]
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. ![Dollar][mon]
