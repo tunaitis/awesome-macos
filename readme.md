@@ -799,6 +799,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Boop](https://apps.apple.com/us/app/boop/id1518425043) - A more powerful alternative to DevToys ![Free][free]
 - [Codespace](https://codespace.app/) - The code snippet manager you've been waiting for. ![Dollar][mon]
 - [Codye](https://darioroa.com/codye/) - Present code in more than 180 languages and 80 themes. ![Dollar][mon]
+- [DevKnife](https://devknife.app) - One app for your daily dev tasks ![Dollar][mon]
 - [DevMacToys](https://github.com/ObuchiYuki/DevToysMac) - DevToys For macOS. ![Open Source][oss]
 - [Defold](https://defold.com/) - The ultimate game engine for web and mobile. ![Open Source][oss]
 - [DetailsPro](https://detailspro.app/) - SwiftUI Designs Made Easy. ![Dollar][mon]
